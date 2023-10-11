@@ -1,5 +1,4 @@
-<img width="1834" alt="git-readme-jj" src="https://github.com/jadczykjakub/jadczykjakub/assets/61157606/dfb7f0d7-2628-41ca-bd71-41d7e3b3997b">
-
+<img width="1834" alt="Make your README" src="https://github.com/jadczykjakub/jadczykjakub/assets/61157606/ab854eca-b66a-4090-960c-53e3c6ad7b47">
 
     
 👩‍💻 I have nearly 3 years of experience working in companies specializing in web development.  
