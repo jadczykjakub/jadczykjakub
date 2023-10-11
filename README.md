@@ -9,3 +9,4 @@
 
 ## You can reach me: 
 - [Linkedin](https://www.linkedin.com/in/jakub-jadczyk-868371171/)
+- [Personal Site](https://jadczykjakub.github.io)
